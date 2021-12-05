@@ -8,6 +8,8 @@ These three functions generate the text that gets passed to function _playFinalD
 
 An extremely simple Spring GUI is used for interface that lets a user search for a photo on their computer via a File Chooser.
 
+After choosing a photo and processing it, the program with read the description out loud.
+
 ![Diagram](1.jpg)
 
 ## Results and difficulties
