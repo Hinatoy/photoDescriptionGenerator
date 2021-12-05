@@ -24,3 +24,17 @@ Because of these difficulties, I decided to strictly control which parts of a pr
 2. A group of people gets described in detail only if there have been less than 6 people detected
 
 That also guarantees that photo descriptions do not become exhaustingly long and unnecessary nuanced.
+
+## How to use this program
+Before running this program, you need to do the following:
+1. Register for AWS Web Services
+2. Create a user that has _AmazonRekognitionFullAccess_ and _AmazonPollyFullAccess_ permissions
+3. Create access keys and [make a new profile on your machine](https://docs.aws.amazon.com/powershell/latest/userguide/specifying-your-aws-credentials.html). Make sure you assign region to us-east-1.
+4. Run _guiDemo.java
+
+![GUI](GUI.jpg)
+![GUI2](GUI (2).jpg)
+
+## What and who is this program for
+The purpose of such software is to introduce an easy way for visually-impaired people to know what is portrayed in a photo. 
+Technology these days have become extremely reliant on a person’s ability to perceive the world visually, which greatly reduces mobility of visually-impaired people. The more well-developed these technologies become, the more uses this idea will have in terms of helping visually-impaired people navigate not only their virtual environment but even real-world surroundings. I expect that in the future, when Rekognition will provide an even more accurate and detailed analysis of photos and videos, visually-impaired people will be able to consume all kinds of visual content without much problem. For example, if one can combine some version of Rekognition, Polly, smart glasses and Bluetooth earphones, users will be able get a real-time narration of their real-world surroundings. My program can be a small step in that direction. 
