@@ -50,8 +50,7 @@ public class guiDemo implements ActionListener {
         String com = e.getActionCommand();
  
         if (com.equals("Open a file...")) {
-            JFileChooser j = new JFileChooser();
-            //"C:\\Users\\Admin\\Desktop\\Hallym 6 Semester\\Cloud Computing\\Project\\Photos"
+            JFileChooser j = new JFileChooser("C:\\Users\\Admin\\Desktop\\Hallym 6 Semester\\Cloud Computing\\Project\\Photos");
             FileNameExtensionFilter filter = new FileNameExtensionFilter("Images", "jpg", "png", "jpeg");
             j.setFileFilter(filter);
  

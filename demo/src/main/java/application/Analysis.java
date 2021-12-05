@@ -9,7 +9,7 @@ import com.amazonaws.services.rekognition.model.FaceDetail;
 import com.amazonaws.services.rekognition.model.Label;
 import com.amazonaws.services.rekognition.model.Parent;
 
-public class AnalysisPhoto {
+public class Analysis {
 	public boolean requiresClothingAnalysis = false; // if exactly one person detected
 	public boolean requiresFacialAnalysis = false; // if human / person was detected
 	public String gender = "";

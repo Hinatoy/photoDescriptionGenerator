@@ -27,7 +27,7 @@ import javazoom.jl.player.advanced.AdvancedPlayer;
 
 public class DetectLabels {
 	public String finalDescription(String photoAddress) throws Exception {
-		AnalysisPhoto analysis = new AnalysisPhoto();
+		Analysis analysis = new Analysis();
         String photo = photoAddress;
         String finalText = "";
         
@@ -71,7 +71,7 @@ public class DetectLabels {
             }
             
             finalText = sceneryLabels + faceLabels + clothingLabels;
-            finalText = "<speak><prosody rate='70%'>" + finalText + "</prosody></speak>";
+            finalText = "<speak><prosody rate='70%'>" + finalText + "</prosody></speak> \n";
             System.out.println(finalText);
         } catch (AmazonRekognitionException e) {
             e.printStackTrace();
