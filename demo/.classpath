@@ -95,7 +95,6 @@
 	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/Hallym 6 Semester/Cloud Computing/Project/jar_files/aws-java-sdk-connectcontactlens-1.12.99.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/Hallym 6 Semester/Cloud Computing/Project/jar_files/aws-java-sdk-connectparticipant-1.12.99.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/Hallym 6 Semester/Cloud Computing/Project/jar_files/aws-java-sdk-connectwisdom-1.12.99.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/Hallym 6 Semester/Cloud Computing/Project/jar_files/aws-java-sdk-core-1.12.99.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/Hallym 6 Semester/Cloud Computing/Project/jar_files/aws-java-sdk-costandusagereport-1.12.99.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/Hallym 6 Semester/Cloud Computing/Project/jar_files/aws-java-sdk-costexplorer-1.12.99.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/Hallym 6 Semester/Cloud Computing/Project/jar_files/aws-java-sdk-customerprofiles-1.12.99.jar"/>
@@ -235,7 +234,6 @@
 	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/Hallym 6 Semester/Cloud Computing/Project/jar_files/aws-java-sdk-pinpoint-1.12.99.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/Hallym 6 Semester/Cloud Computing/Project/jar_files/aws-java-sdk-pinpointemail-1.12.99.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/Hallym 6 Semester/Cloud Computing/Project/jar_files/aws-java-sdk-pinpointsmsvoice-1.12.99.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/Hallym 6 Semester/Cloud Computing/Project/jar_files/aws-java-sdk-polly-1.12.99.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/Hallym 6 Semester/Cloud Computing/Project/jar_files/aws-java-sdk-pricing-1.12.99.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/Hallym 6 Semester/Cloud Computing/Project/jar_files/aws-java-sdk-prometheus-1.12.99.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/Hallym 6 Semester/Cloud Computing/Project/jar_files/aws-java-sdk-proton-1.12.99.jar"/>
@@ -247,7 +245,6 @@
 	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/Hallym 6 Semester/Cloud Computing/Project/jar_files/aws-java-sdk-rdsdata-1.12.99.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/Hallym 6 Semester/Cloud Computing/Project/jar_files/aws-java-sdk-redshift-1.12.99.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/Hallym 6 Semester/Cloud Computing/Project/jar_files/aws-java-sdk-redshiftdataapi-1.12.99.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/Hallym 6 Semester/Cloud Computing/Project/jar_files/aws-java-sdk-rekognition-1.12.99.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/Hallym 6 Semester/Cloud Computing/Project/jar_files/aws-java-sdk-resourcegroups-1.12.99.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/Hallym 6 Semester/Cloud Computing/Project/jar_files/aws-java-sdk-resourcegroupstaggingapi-1.12.99.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/Hallym 6 Semester/Cloud Computing/Project/jar_files/aws-java-sdk-robomaker-1.12.99.jar"/>
@@ -319,6 +316,7 @@
 	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/Hallym 6 Semester/Cloud Computing/Project/jar_files/jackson-core-2.12.3.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/Hallym 6 Semester/Cloud Computing/Project/jar_files/jackson-databind-2.12.3.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/Hallym 6 Semester/Cloud Computing/Project/jar_files/jackson-dataformat-cbor-2.12.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/Hallym 6 Semester/Cloud Computing/Project/jl1.0.jar/jl1.0.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/Hallym 6 Semester/Cloud Computing/Project/jar_files/jmespath-java-1.12.99.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/Hallym 6 Semester/Cloud Computing/Project/jar_files/joda-time-2.8.1.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/Hallym 6 Semester/Cloud Computing/Project/jar_files/netty-buffer-4.1.68.Final.jar"/>
@@ -328,5 +326,9 @@
 	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/Hallym 6 Semester/Cloud Computing/Project/jar_files/netty-handler-4.1.68.Final.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/Hallym 6 Semester/Cloud Computing/Project/jar_files/netty-resolver-4.1.68.Final.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/Hallym 6 Semester/Cloud Computing/Project/jar_files/netty-transport-4.1.68.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/Hallym 6 Semester/Cloud Computing/Project/jar_files/aws-java-sdk-core-1.12.99.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/Hallym 6 Semester/Cloud Computing/Project/jar_files/aws-java-sdk-polly-1.12.99.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/Hallym 6 Semester/Cloud Computing/Project/jar_files/aws-java-sdk-rekognition-1.12.99.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/Hallym 6 Semester/Cloud Computing/Project/swt-win64-3.6.2.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
