@@ -33,7 +33,7 @@ Before running this program, you need to do the following:
 4. Run _guiDemo.java
 
 ![GUI](GUI.jpg)
-![GUI2]((GUI (2)).jpg)
+![GUI2](GUI(2).jpg)
 
 ## What and who is this program for
 The purpose of such software is to introduce an easy way for visually-impaired people to know what is portrayed in a photo. 
