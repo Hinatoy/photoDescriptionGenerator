@@ -8,7 +8,7 @@ These three functions generate the text that gets passed to function _playFinalD
 
 An extremely simple Spring GUI is used for interface that lets a user search for a photo on their computer via a File Chooser.
 
-<img>1.jpg</img>
+![Diagram](1.jpg)
 
 ## Results
 The program does seem to produce somewhat accurate descriptions most of the time. There are certain types of photos that get extremely accurate descriptions (photos of nature, selfies, etc.) and fairly inaccure (photos with lots of people).
